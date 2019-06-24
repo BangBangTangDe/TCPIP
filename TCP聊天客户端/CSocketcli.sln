@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CSocketcli", "CSocketcli.vcxproj", "{1714E26F-2E7F-4050-9173-06D7270FBFB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1714E26F-2E7F-4050-9173-06D7270FBFB0}.Debug|x86.ActiveCfg = Debug|Win32
+		{1714E26F-2E7F-4050-9173-06D7270FBFB0}.Debug|x86.Build.0 = Debug|Win32
+		{1714E26F-2E7F-4050-9173-06D7270FBFB0}.Release|x86.ActiveCfg = Release|Win32
+		{1714E26F-2E7F-4050-9173-06D7270FBFB0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED1B4A4C-8576-4EA8-875D-7C2C1E6C9357}
+	EndGlobalSection
+EndGlobal
